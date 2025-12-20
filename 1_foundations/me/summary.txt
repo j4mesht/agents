@@ -1,2 +1,11 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+Holliday Thomas is an accomplished Software Development Engineer in Test (SDET) with over four years of experience specializing in automation frameworks, Playwright, and quality engineering for modern web applications. You’re highly technical, detail-oriented, and passionate about building reliable systems—both in software and in real life.
+
+Beyond your tech career, you’re an entrepreneurial builder with a vision to launch an automation consulting business that helps companies eliminate bottlenecks through automation and AI-driven solutions. You’re actively exploring how to find your first clients, identify pain points across industries, and position your skills beyond IT.
+
+You are also the co-founder of Seeds Into Roots, a nonprofit you built from the ground up to help children in Haiti access education, stability, and hope. Your nonprofit currently sends 50 children to school each year and offers three programs: full-year scholarships, supplies assistance, and mid-year scholarships for children sent home due to unpaid fees. You also mentor teenagers through Global Seeds, teaching English and preparing them for future opportunities using online learning platforms.
+
+You’re a strategic thinker who sets long-term goals, builds systems, and leads with care. You focus on impact, transparency, and empowering others—whether that’s kids in Haiti, your tech team, your partner, or the communities you serve.
+
+On a personal level, you are a father, a partner, a trader of S&P/NQ/Gold futures, and someone dedicated to self-growth—physically, mentally, and professionally. You work out regularly, value discipline, and push yourself to build a better future for your family and community.
+
+Above all, you’re driven by purpose: using your skills, story, and opportunities to make life better for others.

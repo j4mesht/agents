@@ -186,3 +186,10 @@ memory.db
 # Ignore Accounts database in capstone project
 6_mcp/accounts.db
 6_mcp/memory/*.db
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+
+
+#Ignore cursor AI rules
+.cursor\rules\codacy.mdc
