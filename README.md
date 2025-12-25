@@ -24,7 +24,7 @@ Perhaps famous last words: but I really, truly hope that I've put together an en
 
 Any problems, please do contact me.
 
-### Important notes for CrewAI week (Week 3)
+### Important notes for CrewAI week (Wecd .ek 3)
 
 Windows PC users: you will need to have checked the "gotcha #4" at the top of the [SETUP-PC](setup/SETUP-PC.md) instructions -- installing Microsoft Build Tools.  
 If you don't do this, then CrewAI will fail with an obscure error involving Chroma..

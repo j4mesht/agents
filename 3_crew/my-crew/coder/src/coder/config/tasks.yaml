@@ -1,0 +1,8 @@
+coding_task:
+  description: >
+    Write python code to achieve this assignment: {assignment}
+    Ensure the code is clean, efficient, and well-documented.
+  expected_output: >
+    A complete python code solutions that meets the assignment requirements.
+  agent: coder
+  output_file: output/code_and_output.txt
