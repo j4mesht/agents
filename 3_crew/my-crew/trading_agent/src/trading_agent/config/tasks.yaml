@@ -1,0 +1,25 @@
+trader_task:
+  description: >
+    Develop a comprehensive intraday trading strategy for {instrument} that maximizes profit while minimizing risk.
+    The strategy should include entry and exit points, risk management techniques, and performance metrics.
+  expected_output: >
+    A detailed trading strategy document outlining the proposed approach, including charts, data analysis, and backtesting results.
+  agent: trader
+
+reviewer_task:
+  description: >
+    Review and provide feedback on the intraday trading strategy developed for {instrument}.
+    Ensure that the strategy adheres to best practices in risk management and is feasible for implementation.
+  expected_output: >
+    A review report highlighting strengths, weaknesses, and recommendations for improvement of the trading strategy.
+  agent: trader
+
+
+manager_task:
+  description: >
+    Oversee the development and implementation of the intraday trading strategy for {instrument}.
+    Ensure that the project stays on track, within budget, and meets all regulatory requirements.
+  expected_output: >
+    A project management plan detailing timelines, resource allocation, risk management strategies, and stakeholder communication plans
+  agent: manager
+

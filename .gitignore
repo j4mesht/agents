@@ -189,7 +189,10 @@ memory.db
 
 #Ignore vscode AI rules
 .github\instructions\codacy.instructions.md
+<<<<<<< Updated upstream
 
 
 #Ignore cursor AI rules
 .cursor\rules\codacy.mdc
+=======
+>>>>>>> Stashed changes
